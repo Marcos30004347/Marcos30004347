@@ -1,12 +1,15 @@
 ### Hi there 👋, I'm Marcos Vinicius!
 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=Marcos30004347&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos30004347&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos30004347&langs_count=5&theme=tokyonight&layout=compact" />
-</div>
+<div style="display: inline_block"><br>
+  <a class="github-stats" href="https://github.com/Marcos30004347/Marcos30004347">
+    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=Marcos30004347&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
+  </a>
 
+  <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
+    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos30004347&langs_count=5&theme=tokyonight&layout=compact" />
+  </a>
+ 
+</div> 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/marcos-vinicius-bb7812166/">
