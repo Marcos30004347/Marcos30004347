@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Marcos Vinicius!
+### Hi there 👋 I'm Marcos Vinicius!
 
 <div style="display: inline_block"><br>
   <a class="github-stats" href="https://github.com/Marcos30004347/Marcos30004347">
