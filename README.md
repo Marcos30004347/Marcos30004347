@@ -14,7 +14,7 @@
 
 
 <div id="bio">
-  ## About Me 
+  <h2>About Me</h2> 
   <ul>
     <li>I'm a Software Engineer</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>   
