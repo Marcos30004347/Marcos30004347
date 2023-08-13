@@ -15,16 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,cpp,cs,cmake,go,aws,react,docker,emacs,kubernetes,mongodb,nodejs,py,redis,ts,unity,unreal)](https://skillicons.dev)
 
-<div id="bio">
-  <h2>About Me</h2> 
-  <ul>
-    <li>I'm a Software Engineer</li>
-    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>   
-    <li>I'm currently seeking new opportunities to apply my knowledge and expertise.</li>
-    <li>Focusing on learning new programming languages and type theory right now.</li>
-  </ul>
-</div>
-
 </br>
 
 ## Contact 
