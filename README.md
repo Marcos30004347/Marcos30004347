@@ -11,7 +11,9 @@
  
 </div> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,c++,c#,go,kubernetes)](https://skillicons.dev)
 
 <div id="bio">
   <h2>About Me</h2> 
