@@ -13,7 +13,7 @@
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,cpp,cs,cmake,go,aws,react,docker,emacs,kubernetes,mongodb,nodejs,py,redis,ts,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,cpp,cs,cmake,go,aws,react,docker,emacs,kubernetes,mongodb,nodejs,py,redis,ts,unity,unreal,postgres,postman,mysql,linux,kafka,jest,graphql,emacs,dynamodb,babel,styledcomponents)](https://skillicons.dev)
 
 </br>
 
